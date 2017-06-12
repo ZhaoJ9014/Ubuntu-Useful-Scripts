@@ -1,0 +1,1 @@
+grep -vc '^$' file.txt
