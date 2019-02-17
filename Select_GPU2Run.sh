@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=device_id
+export CUDA_VISIBLE_DEVICES=device_id
